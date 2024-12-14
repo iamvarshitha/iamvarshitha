@@ -12,15 +12,7 @@ I am Maradihalli Krishna Varshitha, a driven Bioinformatics student with a minor
 
 During the IAS Summer Research Fellowship 2024 at ICMR-RMRIMS, Patna, I contributed to the serological diagnosis of Chikungunya virus and computational antiviral drug designing, performing tasks such as:
 
-RNA and DNA isolation 
-
-PCR and Real-Time PCR 
-
-ELISA 
-
-Molecular Docking 
-
-Molecular Dynamics Simulations 
+RNA and DNA isolation , PCR and Real-Time PCR , ELISA, Molecular Docking, Molecular Dynamics Simulations 
 
 I have also explored technical skills in Python, C/C++, Bash/Shell Scripting, and AWS, as well as tools like GROMACS, MySQL, MongoDB, and web design technologies (HTML, CSS, JavaScript, PHP).
 
