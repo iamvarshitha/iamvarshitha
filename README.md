@@ -32,6 +32,7 @@ HackerRank Certifications: Software Engineer Intern, CSS, and SQL
 
 
 📚 Languages 
+
 I am fluent in English (Full Working Proficiency), Telugu (Native Proficiency), and Hindi (Professional Working Proficiency).
 
 ✈️ Vision 
