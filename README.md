@@ -28,6 +28,7 @@ Web Development Internship at Prodigy Infotech: Created a stopwatch web applicat
 📜 Certifications
 
 Meta Front-End Developer (Coursera) 
+
 HackerRank Certifications: Software Engineer Intern, CSS, and SQL 
 
 
