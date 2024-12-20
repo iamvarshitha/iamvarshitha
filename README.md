@@ -6,7 +6,7 @@
 
 🎓 About Me
 
-I am Maradihalli Krishna Varshitha, a driven Bioinformatics student with a minor specialization in Cyber Security and IoT. I am currently pursuing my B.Tech at SASTRA Deemed University. My passion lies in tackling challenges beyond my comfort zone and integrating computational tools to advance bioinformatics and antiviral research.
+I am Maradihalli Krishna Varshitha, a Bioinformatics student with a minor specialization in Cyber Security and IoT. I am currently pursuing my B.Tech at SASTRA Deemed University. My passion lies in tackling challenges beyond my comfort zone and integrating computational tools to advance bioinformatics and antiviral research.
 
 👨‍🔬 Research and Technical Expertise 
 
