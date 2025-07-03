@@ -17,9 +17,7 @@ I have also explored technical skills in Python, C/C++, Bash/Shell Scripting, an
 
 💻 Projects and Internships
 
-Weather Web Page: Built using a weather API to fetch live data. 
-Random Arithmetic Problem Generator: Developed using Python. 
-Web Development Internship at Prodigy Infotech: Created a stopwatch web application during a one-month tenure. 
+You can find my code in my GitHub repositories
 
 📜 Certifications
 
@@ -31,7 +29,3 @@ HackerRank Certifications: Software Engineer Intern, CSS, and SQL
 📚 Languages 
 
 I am fluent in English (Full Working Proficiency), Telugu (Native Proficiency), and Hindi (Professional Working Proficiency).
-
-✈️ Vision 
-
-With a keen interest in drug design, molecular dynamics, and computational genomics, I aim to contribute to breakthroughs in bioinformatics, addressing pressing challenges like viral mutations and drug resistance, and developing innovative therapeutic solutions.
